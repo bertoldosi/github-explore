@@ -1,7 +1,7 @@
 {
     "name": "github-explore",
     "version": "0.1.0",
-    "homepage": "https://github.com/bertoldosi/github-explore",
+    "homepage": "https://bertoldosi.github.io/github-explore",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
