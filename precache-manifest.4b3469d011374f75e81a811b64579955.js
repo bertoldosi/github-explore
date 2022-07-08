@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ebc908a2d4b26e99588396d8b496011b",
+    "revision": "8e0543c73358a31bdb786d8425b15df4",
     "url": "/bertoldosi/github-explore/index.html"
   },
   {
