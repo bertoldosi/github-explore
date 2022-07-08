@@ -76,7 +76,7 @@ Feito isso, irá abrir no seu navegador a aplicação rodando em `http://localho
 
 ---
 
-Para acessar a aplicação hospedada clique em: https://clima-tempo-seven.vercel.app/
+Para acessar a aplicação hospedada clique em: https://bertoldosi.github.io/github-explore/#/
 
 ---
 
