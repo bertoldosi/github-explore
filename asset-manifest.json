@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/bertoldosi/github-explore/static/js/main.e325f9f7.chunk.js",
-    "main.js.map": "/bertoldosi/github-explore/static/js/main.e325f9f7.chunk.js.map",
-    "runtime-main.js": "/bertoldosi/github-explore/static/js/runtime-main.c1040ec5.js",
-    "runtime-main.js.map": "/bertoldosi/github-explore/static/js/runtime-main.c1040ec5.js.map",
-    "static/js/2.edc52022.chunk.js": "/bertoldosi/github-explore/static/js/2.edc52022.chunk.js",
-    "static/js/2.edc52022.chunk.js.map": "/bertoldosi/github-explore/static/js/2.edc52022.chunk.js.map",
-    "index.html": "/bertoldosi/github-explore/index.html",
-    "precache-manifest.6d172dadb272be20283234de1db807fa.js": "/bertoldosi/github-explore/precache-manifest.6d172dadb272be20283234de1db807fa.js",
-    "service-worker.js": "/bertoldosi/github-explore/service-worker.js",
-    "static/js/2.edc52022.chunk.js.LICENSE.txt": "/bertoldosi/github-explore/static/js/2.edc52022.chunk.js.LICENSE.txt",
-    "static/media/github.svg": "/bertoldosi/github-explore/static/media/github.b9dc0fb0.svg",
-    "static/media/logo.svg": "/bertoldosi/github-explore/static/media/logo.016a2e1c.svg"
+    "main.js": "/github-explore/static/js/main.e325f9f7.chunk.js",
+    "main.js.map": "/github-explore/static/js/main.e325f9f7.chunk.js.map",
+    "runtime-main.js": "/github-explore/static/js/runtime-main.734d842a.js",
+    "runtime-main.js.map": "/github-explore/static/js/runtime-main.734d842a.js.map",
+    "static/js/2.0e7a9480.chunk.js": "/github-explore/static/js/2.0e7a9480.chunk.js",
+    "static/js/2.0e7a9480.chunk.js.map": "/github-explore/static/js/2.0e7a9480.chunk.js.map",
+    "index.html": "/github-explore/index.html",
+    "precache-manifest.fb44e2023bdca4beb11b9b7728f7e560.js": "/github-explore/precache-manifest.fb44e2023bdca4beb11b9b7728f7e560.js",
+    "service-worker.js": "/github-explore/service-worker.js",
+    "static/js/2.0e7a9480.chunk.js.LICENSE.txt": "/github-explore/static/js/2.0e7a9480.chunk.js.LICENSE.txt",
+    "static/media/github.svg": "/github-explore/static/media/github.b9dc0fb0.svg",
+    "static/media/logo.svg": "/github-explore/static/media/logo.016a2e1c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1040ec5.js",
-    "static/js/2.edc52022.chunk.js",
+    "static/js/runtime-main.734d842a.js",
+    "static/js/2.0e7a9480.chunk.js",
     "static/js/main.e325f9f7.chunk.js"
   ]
 }
