@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/bertoldosi/github-explore/static/js/main.1fbf8429.chunk.js",
+    "main.js.map": "/bertoldosi/github-explore/static/js/main.1fbf8429.chunk.js.map",
+    "runtime-main.js": "/bertoldosi/github-explore/static/js/runtime-main.c1040ec5.js",
+    "runtime-main.js.map": "/bertoldosi/github-explore/static/js/runtime-main.c1040ec5.js.map",
+    "static/js/2.edc52022.chunk.js": "/bertoldosi/github-explore/static/js/2.edc52022.chunk.js",
+    "static/js/2.edc52022.chunk.js.map": "/bertoldosi/github-explore/static/js/2.edc52022.chunk.js.map",
+    "index.html": "/bertoldosi/github-explore/index.html",
+    "precache-manifest.05e280cb50d54cee55012e9d79dd2d76.js": "/bertoldosi/github-explore/precache-manifest.05e280cb50d54cee55012e9d79dd2d76.js",
+    "service-worker.js": "/bertoldosi/github-explore/service-worker.js",
+    "static/js/2.edc52022.chunk.js.LICENSE.txt": "/bertoldosi/github-explore/static/js/2.edc52022.chunk.js.LICENSE.txt",
+    "static/media/github.svg": "/bertoldosi/github-explore/static/media/github.0b819d63.svg",
+    "static/media/logo.svg": "/bertoldosi/github-explore/static/media/logo.04f6798f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1040ec5.js",
+    "static/js/2.edc52022.chunk.js",
+    "static/js/main.1fbf8429.chunk.js"
+  ]
+}
